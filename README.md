@@ -1,1 +1,1 @@
-# PHP   ![image](https://github.com/swetaC1711/PHP/assets/124697568/413349fb-5472-4e48-b15b-4ac3dbabc907)
+<h3> PHP <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fphp-full-form&psig=AOvVaw3_kcO4T-wdj0wl-7x2j0Dd&ust=1691860175626000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiuva6M1YADFQAAAAAdAAAAABAE"></h3>
